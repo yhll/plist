@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/client/PrimetonMobile.ipa</string>
+					<string>http://192.168.6.179:8080/self/PrimetonMobile.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/client/puyuan@2x.png</string>
+					<string>http://192.168.6.179:8080/self/puyuan@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/client/puyuan.png</string>
+					<string>http://192.168.6.179:8080/self/puyuan.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.emp2998989</string>
+				<string>com.primeton.emp299</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

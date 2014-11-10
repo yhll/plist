@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://42.121.56.140:8080/PrimetonMobileVPN/PrimetonMobile_VPN.ipa</string>
+					<string>http://192.168.6.17:8080/PrimetonMobileVPN/PrimetonMobile_VPN.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.vpn</string>
+				<string>com.primeton.mobile.vpn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

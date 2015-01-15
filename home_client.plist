@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/home/EmpBridge.ipa</string>
+					<string>http://192.168.6.21:8080/home/EmpBridge.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>

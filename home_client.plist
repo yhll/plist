@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/home/puyuan@2x.png</string>
+					<string>http://42.121.56.140:8080/EmpBridge/puyuan@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.6.179:8080/home/puyuan.png</string>
+					<string>http://192.168.6.179:8080/EmpBridge/puyuan.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

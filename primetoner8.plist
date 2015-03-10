@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.pmkehu.cg</string>
+				<string>com.emp.primeton.primetoner</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>企业微信</string>
+				<string>普元人</string>
 			</dict>
 		</dict>
 	</array>

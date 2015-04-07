@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.mobile7</string>
+				<string>com.primeton.video</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>普元开发客户端</string>
+				<string>在线学堂</string>
 			</dict>
 		</dict>
 	</array>

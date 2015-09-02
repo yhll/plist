@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.noahwm.crm</string>
+				<string>com.noahwm.crmDemo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.hm.mobile","fileName":"ios.ipa","version":"1.0.1"}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.mobile7","fileName":"ios.ipa","version":"7.1"}</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.mobile7","fileName":"icon.png","version":"7.1"}</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.mobile7","fileName":"icon.png","version":"7.1"}</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.primeton.hm.mobile</string>
+				<string>com.primeton.mobile7</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>7.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>综合业务管理平台</string>
+				<string>普元调试客户端</string>
 			</dict>
 		</dict>
 	</array>

@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={%22appId%22:%22com.primeton.hm.mobile%22,%22fileName%22:%22icon.png%22,%22version%22:%221.0.1%22}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={%22appId%22:%22com.primeton.hm.mobile%22,%22fileName%22:%22icon.png%22,%22version%22:%221.0.1%22}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do</string>
 				</dict>
 			</array>
 			<key>metadata</key>

@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/clients/114x114.png</string>
+					<string>http://192.168.47.12:8989/mgovernor/com.primeton.mobile7__7.1__icon.png.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/clients/57x57.png</string>
+					<string>http://192.168.47.12:8989/mgovernor/com.primeton.mobile7__7.1__icon.png.ios</string>
 				</dict>
 			</array>
 			<key>metadata</key>

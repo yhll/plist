@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.hm.mobile","fileName":"ios.ipa","version":"1.0.1"}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={%22appId%22:%22com.primeton.hm.mobile%22,%22fileName%22:%22ios.ipa%22,%22version%22:%221.0.1%22}</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.hm.mobile","fileName":"icon.png","version":"1.0.1"}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={%22appId%22:%22com.primeton.hm.mobile%22,%22fileName%22:%22icon.png%22,%22version%22:%221.0.1%22}</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={"appId":"com.primeton.hm.mobile","fileName":"icon.png","version":"1.0.1"}</string>
+					<string>http://192.168.47.12:8989/mgovernor/store/app/downloadIOS.do?app={%22appId%22:%22com.primeton.hm.mobile%22,%22fileName%22:%22icon.png%22,%22version%22:%221.0.1%22}</string>
 				</dict>
 			</array>
 			<key>metadata</key>

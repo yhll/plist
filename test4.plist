@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.41.10:8989/mgovernor/com.primeton.test__ios__1.0.1__ios.ipa.ios</string>
+					<string>http://192.168.0.106:8080/mgovernor/com.benvogelzang.SevenSwitchExample__ios__1.0.0__ios.ipa.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.41.10:8989/mgovernor/com.primeton.test__ios__1.0.1__icon.png.ios</string>
+					<string>http://192.168.0.106:8080/mgovernor/com.benvogelzang.SevenSwitchExample__ios__1.0.0__icon.png.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.41.10:8989/mgovernor/com.primeton.test__ios__1.0.1__icon.png.ios</string>
+					<string>http://192.168.0.106:8080/mgovernor/com.benvogelzang.SevenSwitchExample__ios__1.0.0__icon.png.ios</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string></string>
+				<string>com.benvogelzang.SevenSwitchExample</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>公文</string>
+				<string>测试ios</string>
 			</dict>
 		</dict>
 	</array>

@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://111.198.162.38:8080/mgovernor/mobileportal-ios__ios__1.0__icon.png.ios</string>
+					<string>http://10.249.218.89:8080//mgovernor/mobileportal-ios__ios__1.0__icon.png.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://111.198.162.38:8080/mgovernor/mobileportal-ios__ios__1.0__icon.png.ios</string>
+					<string>http://10.249.218.89:8080/mgovernor/mobileportal-ios__ios__1.0__icon.png.ios</string>
 				</dict>
 			</array>
 			<key>metadata</key>

@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>test</string>
+				<string>cn.com.cucsi.py</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>

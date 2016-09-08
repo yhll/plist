@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.125:8989/mgovernor/testZhydt__ios__1.0__ios.ipa.ios</string>
+					<string>http://192.168.191.6:8989/mgovernor/testZhydt__ios__1.0__ios.ipa.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.125:8989/mgovernor/testZhydt__ios__1.0__icon.png.ios</string>
+					<string>http://192.168.191.6:8989/mgovernor/testZhydt__ios__1.0__icon.png.ios</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.125:8989/mgovernor/testZhydt__ios__1.0__icon.png.ios</string>
+					<string>http://192.168.191.6:8989/mgovernor/testZhydt__ios__1.0__icon.png.ios</string>
 				</dict>
 			</array>
 			<key>metadata</key>
